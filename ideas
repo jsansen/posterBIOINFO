@@ -5,12 +5,18 @@ Organisation de la formation en 3 axes :
 *biologie pour l'environnement/ecologie
 
 (recupéré du site de UB):
-Les trois premiers semestres sont consacrés à la formation académique (90 crédits dont 36 crédits obligatoires d'informatique, 21 crédits obligatoires de biologie et 12 crédits obligatoires pour le stage de réalisation de logiciel, les options peuvent être indifféremment choisies parmi des enseignements de biologie ou d'informatique dispensés dans les spécialités de la mention Biologie Santé ou de la mention Informatique).
-Le quatrième semestre consiste en un stage en entreprise de quatre à six mois qui peut avoir lieu à l'étranger.
+Les trois premiers semestres sont consacrés à la formation académique 
+ *90 crédits dont:
+	*36 crédits obligatoires d'informatique, 
+	*21 crédits obligatoires de biologie et 
+	*12 crédits obligatoires pour le stage de réalisation de logiciel,
+ les options peuvent être indifféremment choisies parmi des enseignements de biologie 
+ou d'informatique).
+Le quatrième semestre consiste en un stage en entreprise de quatre à six mois (France ou Étranger).
 
 Organisation:
 algo-prog:
-*Obejectifs et competences:
+*Objectifs et competences:
 **Analyser un problème donné et concevoir l'algorithme correspondant.
 **Apprentissage de la programmation au travers de différents langages classiques ou orientés objet.
 **Conception de modules de traitement pour les données biologiques.
