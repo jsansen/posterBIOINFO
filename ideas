@@ -1,38 +1,5 @@
 bon ben c'est assez clair je pense, c'est ici qu'on met nos idées, remarques, les trucs a noter, etc..
-Organisation de la formation en 3 axes : 
-*biologie computationnelle
-*du genome à l'organisme
-*biologie pour l'environnement/ecologie
-
-(recupéré du site de UB):
-Les trois premiers semestres sont consacrés à la formation académique 
- *90 crédits dont:
-	*36 crédits obligatoires d'informatique, 
-	*21 crédits obligatoires de biologie et 
-	*12 crédits obligatoires pour le stage de réalisation de logiciel,
- les options peuvent être indifféremment choisies parmi des enseignements de biologie 
-ou d'informatique).
-Le quatrième semestre consiste en un stage en entreprise de quatre à six mois (France ou Étranger).
-
-Organisation:
-algo-prog:
-*Objectifs et competences:
-**Analyser un problème donné et concevoir l'algorithme correspondant.
-**Apprentissage de la programmation au travers de différents langages classiques ou orientés objet.
-**Conception de modules de traitement pour les données biologiques.
-*Compétences acquises
-**Convertir un problème concret en une suite d'instructions programmables.
-**Maitrise des concepts essentiels d'un langage de programmation.
-
-Biomodélisation et simulation de processus biologiques:
-*biostatistiques
-*réalisation de programme de traitement de données.
-*traitement et analyse d'images scientifiques.
-*Modélisation: Elaborer un modèle pour les données biologiques et sa mise en oeuvre informatique.
-*Programmation: Maitrise du langage Python.
-*Imagerie: Appréhender les divers moyens d'amélioration des images scientifiques dans les domaines des microscopies (optique et électronique) en vue de leur analyse. Savoir utiliser une librairie de traitement d'images.
-
-
+Organisation de la formation en 3 axes 
 
 
 site web de la formation (privé et en construction): http://master-bioinfo-bordeaux.github.io/
